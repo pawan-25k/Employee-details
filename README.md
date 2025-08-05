@@ -21,7 +21,7 @@ Follow these steps to get the application running on your local machine.
  - npm install pug
  - npm install express mongoose
 
-### 4. Start the Server
+### 3. Start the Server
 - node server.js
 
 You should see the following messages in your terminal, indicating a successful connection and server start:
